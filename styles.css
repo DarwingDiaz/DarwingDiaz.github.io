@@ -16,7 +16,6 @@ html{
   height: 100vh;
 }
 #inicio .contenido header{
-  /* background-color: rgba(22, 33, 62,.8); */
   background: linear-gradient(rgb(0, 33, 59), rgba(22, 33, 62,.8));
   position: fixed;
   width: 100%;
@@ -111,14 +110,12 @@ html{
 }
 
 #inicio .contenido .presentacion .buton:hover{
-  /* background: linear-gradient(rgb(0, 33, 59), rgba(22, 33, 62,.8)); */
   background-color: #E6B325;
 }
 #icono-navs{
   color: whitesmoke;
   display: none;
 }
-
 /* SOBRE MI  */
 #sobremi{
   max-width: 1100px;
@@ -193,7 +190,6 @@ html{
   color: black;
 }
 .certifi{
-  /* color:rgb(0, 33, 59) ; */
   color: #E6B325;
   font-size: 20px;
 }
@@ -264,29 +260,6 @@ html{
   line-height: 22px ;
 }
 /* SKILLS */
-/* .contenedor-skills{
-}
-.contenedor-skills .columnas{
-  display: flex;
-  justify-content: space-between; 
-}
-.contenedor-skills .columna1{
-  
-  flex: 1;
-  max-width: 400px;
-  padding: 20px;
-  width: 50%;
-  display: inline-block;
-}
-.contenedor-skills .columna2{
-
-  flex: 1;
-  max-width: 400px;
-  padding: 20px;
-  width: 50%;
-  display: inline-block;
-}
- */
 .skills {
   background: linear-gradient(rgb(0, 33, 59), rgba(22, 33, 62,.8)), url(img/premium_photo-1678565869434-c81195861939.avif);
   background-attachment: fixed;
@@ -668,10 +641,6 @@ footer a{
     padding: 50px 15px;
   }
   #contacto .titulo-seccion{
-    /* margin-bottom: 15px;
-    display: flex;
-    flex-direction: column;
-    text-align: center; */
     font-size: 24px;
   }
   #contacto .contac{
@@ -680,6 +649,7 @@ footer a{
   #contacto a{
     width: 150px;
   }
+  
 }
 
 

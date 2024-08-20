@@ -30,6 +30,9 @@ html{
   align-items: center;
   padding: 10px 20px;
 }
+.icons{
+  font-size: 60px;
+}
 #inicio .contenido header .contenido-header h1{
   text-align: center;
   color: whitesmoke;

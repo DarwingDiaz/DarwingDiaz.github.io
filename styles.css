@@ -595,6 +595,9 @@ footer a{
   #inicio .contenido .presentacion h2{
     font-size: 40px;
   }
+  .icons{
+    font-size: 25px;
+  }
   #sobremi{
     padding: 50px 0;
     display: block;
